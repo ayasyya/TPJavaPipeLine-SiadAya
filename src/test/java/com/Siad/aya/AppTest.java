@@ -1,4 +1,4 @@
-package com.siad.aya;
+package com.Siad.aya;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Tests unitaires pour la classe App
- * @author Siad aya
+ * @author Siad aya 
  */
 class AppTest {
 

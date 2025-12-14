@@ -6,7 +6,7 @@
     
     <modelVersion>4.0.0</modelVersion>
     
-    <groupId>com.siad.aya</groupId>
+    <groupId>com.Siad.aya</groupId>
     <artifactId>tp-java-pipeline</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
