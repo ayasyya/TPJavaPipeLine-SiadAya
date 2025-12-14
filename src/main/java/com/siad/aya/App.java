@@ -1,8 +1,8 @@
-package com.laamache.akram;
+package com.siad.aya;
 
 /**
  * Application principale - TP Java Pipeline
- * @author Laamache Akram
+ * @author siad aya
  */
 public class App {
 

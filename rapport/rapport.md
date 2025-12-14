@@ -1,6 +1,6 @@
 # Rapport TP Java Pipeline
 
-**Étudiant** : Laamache Akram  
+**Étudiant** : Siad Aya 
 **Date** : Décembre 2024  
 **Module** : DevOps / CI-CD
 

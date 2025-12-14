@@ -6,14 +6,14 @@
     
     <modelVersion>4.0.0</modelVersion>
     
-    <groupId>com.laamache.akram</groupId>
+    <groupId>com.siad.aya</groupId>
     <artifactId>tp-java-pipeline</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     
     <name>TP Java Pipeline</name>
-    <description>Projet Maven pour TP Jenkins Pipeline - Laamache Akram</description>
-    
+    <description>Projet Maven pour TP Jenkins Pipeline - Siad Aya</description>
+
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
@@ -58,7 +58,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.laamache.akram.App</mainClass>
+                            <mainClass>com.siad.aya.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
